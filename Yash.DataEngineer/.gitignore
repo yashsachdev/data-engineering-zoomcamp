@@ -1,0 +1,8 @@
+path/to/venv./
+pgcli-env/
+.ipynb_checkpoints/
+.terraform.lock.hcl
+Kestra-container/wait-for-it.sh
+Test-Connection.ipynb
+terraform.tfstate
+terraform.tfstate.backup
